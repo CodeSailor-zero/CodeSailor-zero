@@ -6,4 +6,4 @@
 - :computer:  开源项目：伙伴匹配｜seanBI
 
 # 我的技能
-`java`、`vue`、`redis`、`MYSQL`、`rabbitMQ`、`TS`
+`java`、`vue`、`redis`、`MYSQL`、`rabbitMQ`、`TS` 
